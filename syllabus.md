@@ -27,8 +27,6 @@ Lectures
 - In class worksheets will be assigned during most lectures, but can be excused
   in case you are not able to attend a lecture due to illness or other valid
   reasons (let me know by email if this happens)
-- Lectures will not be recorded, but written notes will be made available
-  generally within 48 hours of each lecture on the course website
 
 Course Structure
 ---
