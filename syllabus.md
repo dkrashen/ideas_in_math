@@ -44,11 +44,17 @@ Grading
 
 The course grade will be as follows:
 
-- in class worksheets: 10% total (drop lowest 4)
-- weekly assignments: 30% total (drop lowest 2)
-- in class exams: 60% total (lowest score counts for 10%, middle score counts for 20%, highest score counts for 30%)
+- in class worksheets: 30% total (drop up to 6)
+- weekly worksheets: 40% total (drop up do 3)
+- monthly worksheets: 30% total (drop up do 1)
 
-Tentative exam dates: Thursday, September 28; Thursday, November 2; Thursday, November 30.
+Grading concerns must be presented to me in writing within one week of when the worksheets are graded.
+
+All work must meet the standards of the [University of Pennsylvania’s Code of
+Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/). Lack of knowledge of these policies does not excuse a
+violation. Working together is allowed (and encouraged) on worksheets, but all
+work should stand alone.
+
 
 How to be successful
 ---
@@ -58,6 +64,9 @@ To be successful in the course will require:
 - Keeping up with readings in the textbook,
 - Attending the lectures/discussions
 - Keeping up with the written assignments,
-- Asking questions via written assignments, email or during office hours whenever something is unclear.
+- Asking questions via written assignments, email or during office hours
+  whenever something is unclear.
 
-In practical terms, if you want to do well in the course, it is absolutely essential that you keep up with the material in a timely way. Late homework will generally not be accepted.
+In practical terms, if you want to do well in the course, it is absolutely
+essential that you keep up with the material in a timely way. Late homework
+will generally not be accepted.
