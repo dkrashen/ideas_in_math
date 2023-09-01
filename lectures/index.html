@@ -4,11 +4,18 @@ layout: default
 
 {% for l in site.data.lectures %}
 <div class="row well well-sm">
-	<div class="col-md-9">
-	  <b>{{l.title}}</b>: {{l.description}}
+	<div class="col-md-10">
+	  <h3>{{l.title}}: {{l.description}} </h3>
+    {% if l.more %}
+      {% for thing in l.more %}
+      {% for item in thing %}
+        <p>{{thing}}</p>
+      {% endfor %}
+      {% endfor %}
+    {% endif %}
 	</div>
   {% if l.filename %}
-	<div class="col-md-3">
+	<div class="col-md-2">
 		<a href="{{ l.filename }}"><button type="button" 
     class="btn btn-lnk btn-spaced">pdf</button></a>
 	</div>

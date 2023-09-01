@@ -1,3 +1,17 @@
 - title: "Lecture 1"
-  description: "coming soon."
+  description: "Introductions"
   filename: ""
+
+- title: "Lecture 2"
+  description: "Number systems and the concept of number"
+  filename: "lecture2.pdf"
+  more: 
+    - "<h4>Supplemental sources for number systems and their history</h4>"
+    - "<i>Numerical Notation, A Comparitive History</i>, by Stephen Chrisomalis"
+    - "<i>Number Words and Number Symbols, A Cultural History of Numbers</i> by Karl Menninger"
+    - "<h4>Supplemental sources on color and language</h4>"
+    - "<i>Through the Language Glass, Why the World Looks Different in Other Languages</i> by Guy Deutscher"
+    - "You can also find interesting discussions in Chapters 1 and 3 of
+      <i>Reading: the Grand
+      Illusion, How and Why People Make Sense of Print</i> by Ken Goodman,
+      Peter H. Fries, and Steven L. Strauss"
