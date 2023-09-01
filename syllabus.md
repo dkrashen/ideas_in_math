@@ -34,8 +34,8 @@ Course Structure
 - Lectures on Tuesday and Thursdays 3:30-5:00pm in DRL A1
 - Weekly reading assigned on Thursdays and due the following week on Tuesday
 - In class worksheets
-- Weekly homework sets assigned on Fridays and due the following week on Fridays (online via canvas/gradescope)
-- 3 in class exams during the semester
+- Weekly homework worksheets assigned on Fridays and due the following week on Fridays (online via canvas/gradescope)
+- Longer worksheets assigned once a month (also assigned on Fridays and due the following week instead of the usual weekly homework sets)
 
 In the lectures, I will assume that all students have done the assigned reading. I will try to supplement the material by adding extra details and examples as needed.
 
