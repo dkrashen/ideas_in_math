@@ -6,12 +6,17 @@ layout: default
 <div class="row well well-sm">
 	<div class="col-md-10">
 	  <h3>{{l.title}}: {{l.description}} </h3>
-    {% if l.more %}
+   {% if l.more %}
+    <div class="col-md-1"></div>
+    <div class="col-md-11">
+    <div class="row well well-sm">
       {% for thing in l.more %}
       {% for item in thing %}
         <p>{{thing}}</p>
       {% endfor %}
       {% endfor %}
+   </div>
+   </div>
     {% endif %}
 	</div>
   {% if l.filename %}

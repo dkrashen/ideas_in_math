@@ -6,20 +6,24 @@
   description: "Number systems and the concept of number"
   filename: "lecture2.pdf"
   more: 
-    - "<h4>Supplemental sources for number systems and their history</h4>"
-    - "<i>Numerical Notation, A Comparitive History</i>, by Stephen Chrisomalis"
-    - "<i>Number Words and Number Symbols, A Cultural History of Numbers</i> by Karl Menninger"
-    - "<h4>Supplemental sources on color and language</h4>"
-    - "<i>Through the Language Glass, Why the World Looks Different in Other Languages</i> by Guy Deutscher"
-    - "You can also find interesting discussions in Chapters 1 and 3 of
+    - "<h3>Supplemental sources</h3>"
+    - "<h4>Number systems and their history</h4>"
+    - "(book) <i>Numerical Notation, A Comparitive History</i>, by Stephen Chrisomalis"
+    - "(book) <i>Number Words and Number Symbols, A Cultural History of Numbers</i> by Karl Menninger"
+    - "<h4>Color and language</h4>"
+    - "(book) <i>Through the Language Glass, Why the World Looks Different in Other Languages</i> by Guy Deutscher"
+    - "(book) You can also find interesting discussions in Chapters 1 and 3 of
       <i>Reading: the Grand
       Illusion, How and Why People Make Sense of Print</i> by Ken Goodman,
       Peter H. Fries, and Steven L. Strauss"
+    - "<h4>The philosophy of number systems</h4>"
+    - '<a href="https://youtu.be/1EGDCh75SpQ">YouTube Video by Numberphile: Do numbers EXIST?</a>'
 
 - title: "Lecture 3"
   description: "More on number systems and some modern perspectives"
   filename: ""
   more: 
-    - "<h4>Supplemental resources for number systems</h4>"
+    - "<h3>Supplemental sources</h3>"
+    - "<h4> Working with numbers in other bases</h4>"
     - '<a href="https://youtu.be/VLflTjd3lWA">YouTube Video on converting binary to decimal notation</a>'
     - '<a href="https://youtu.be/ayul1fmZd0Y">YouTube Video on converting decimal to octal notation</a>'
