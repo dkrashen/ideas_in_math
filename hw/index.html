@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-{% for l in site.data.hw %}
+{% assign reversedHw = site.data.hw | reverse %}
+{% for l in reversedHw %}
 <div class="row well well-sm">
 	<div class="col-md-9">
 	  <b>{{l.title}}</b>: {{l.description}}

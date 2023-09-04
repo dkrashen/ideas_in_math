@@ -1,6 +1,5 @@
 - title: "Lecture 1"
   description: "Introductions"
-  filename: ""
 
 - title: "Lecture 2"
   description: "Number systems and the concept of number"
@@ -21,7 +20,6 @@
 
 - title: "Lecture 3"
   description: "More on number systems and some modern perspectives"
-  filename: ""
   more: 
     - "<h3>Supplemental sources</h3>"
     - "<h4> Working with numbers in other bases</h4>"
