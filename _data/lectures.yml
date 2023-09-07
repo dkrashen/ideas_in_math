@@ -26,3 +26,10 @@
     - "<h4> Working with numbers in other bases</h4>"
     - '<a href="https://youtu.be/VLflTjd3lWA">YouTube Video on converting binary to decimal notation</a>'
     - '<a href="https://youtu.be/ayul1fmZd0Y">YouTube Video on converting decimal to octal notation</a>'
+
+- title: "Lecture 4"
+  description: "Introduction to Sets"
+  filename: "lecture4.pdf"
+  more:
+    - "<h3>Supplemental sources</h3>"
+    - '<a href="https://farside.ph.utexas.edu/books/Euclid/Euclid.html">The Elements of Geometry, by Euclid</a>'
