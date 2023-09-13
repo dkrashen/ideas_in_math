@@ -33,3 +33,15 @@
   more:
     - "<h3>Supplemental sources</h3>"
     - '<a href="https://farside.ph.utexas.edu/books/Euclid/Euclid.html">The Elements of Geometry, by Euclid</a>'
+
+- title: "Lecture 5"
+  description: "Sets, paradoxes, axioms and infinity"
+  filename: "lecture5.pdf"
+  more:
+    - "<h3>Supplemental sources</h3>"
+    - "<h4>Infinity and the Hilbert hotel</h4>"
+    - '<a href="https://youtu.be/OxGsU8oIWjY">How an Infinite Hotel Ran Out Of Room (YouTube video)</a>'
+    - '<a href="https://youtu.be/Uj3_KqkI9Zo">The Infinite Hotel Paradox - Jeff Dekofsky (YouTube video)</a>'
+    - "<h4>Gödel's incompleteness Theorem</h4>"
+    - '<a href="https://youtu.be/O4ndIDcDSGc">Gödel''s incompleteness Theorem - Numberphile (YouTube video)</a>'
+    - '<a href="https://youtu.be/HeQX2HjkcNo">Math''s Fundamental Flaw (YouTube video)</a>'
