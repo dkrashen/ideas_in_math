@@ -53,3 +53,8 @@
 - title: "Lecture 7"
   description: "Counting and the natural numbers"
   filename: "lecture7.pdf"
+  more: 
+    - "<h3>Supplemental sources</h3>"
+    - "<h4>History of irrational numbers</h4>"
+    - "(book) <i>A History of Pythagoreanism</i>, edited by Carl A. Huffman (see Sixth-, fifth- and fourth-century Pythagoreans Leonid Zhmud, section 3)
+"
