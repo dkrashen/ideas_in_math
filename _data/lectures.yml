@@ -72,3 +72,7 @@
   filename: "lecture10.pdf"
 - title: "Lecture 10 (typed)"
   filename: "lecture10-typed.pdf"
+
+- title: "Lecture 11"
+  description: "Divisibility and Friday the 13th"
+  filename: "lecture11.pdf"
