@@ -76,3 +76,11 @@
 - title: "Lecture 11"
   description: "Divisibility and Friday the 13th"
   filename: "lecture11.pdf"
+
+- title: "Lecture 12"
+  description: "Introduction to graphs"
+  filename: "lecture12.pdf"
+
+- title: "Lecture 13"
+  description: "Some language of graph theory"
+  filename: "lecture13.pdf"
