@@ -88,3 +88,7 @@
 - title: "Lecture 14"
   description: "Graph theory and platonic solids"
   filename: "lecture14.pdf"
+
+- title: "Lecture 15"
+  description: "Graph isomorphisms and colorings"
+  filename: "lecture15.pdf"
