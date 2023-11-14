@@ -92,3 +92,23 @@
 - title: "Lecture 15"
   description: "Graph isomorphisms and colorings"
   filename: "lecture15.pdf"
+
+- title: "Lecture 16"
+  description: "Computing chromatic polyonmials"
+  filename: "lecture16.pdf"
+
+- title: "Lecture 17"
+  description: "Perspectives on AI, neural nets and langauge models"
+  filename: "lecture17.pdf"
+
+- title: "Lecture 18"
+  description: "Markov Models, toy langugage generation"
+  filename: "lecture18.pdf"
+
+- title: "Lecture 19"
+  description: "Neural nets nuts and bolts"
+  filename: "lecture19.pdf"
+
+- title: "Lecture 20"
+  description: "Gradient flows"
+  filename: "lecture20.pdf"
