@@ -112,3 +112,12 @@
 - title: "Lecture 20"
   description: "Gradient flows"
   filename: "lecture20.pdf"
+
+- title: "Lecture 21"
+  description: "Language models and neural net summary"
+  filename: "lecture21.pdf"
+
+- title: "Lecture 22"
+  description: "Example neural net: word type classifier" 
+  filename: "lecture22.pdf"
+ 
